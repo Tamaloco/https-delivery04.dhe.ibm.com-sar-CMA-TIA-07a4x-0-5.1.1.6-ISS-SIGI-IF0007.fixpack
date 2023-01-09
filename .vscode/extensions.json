@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "davidanson.vscode-markdownlint",
+        "ms-python.python"
+    ]
+}
